@@ -4,6 +4,10 @@ Node setup for the Fractal Bitcoin project, which is supported by mighty Binance
 
 Fractal Bitcoin is the only Bitcoin scaling solution that uses the Bitcoin Core code to iteratively scale infinite layers. This is the world's first virtualization method applied to Bitcoin. Fractal gradually expands the Bitcoin blockchain into a scalable computing system without compromising the consistency of the main Bitcoin chain. Building on Fractal is quite simple with powerful tools and support.
 
+Youtube : https://www.youtube.com/@cryptoconsole
+Follow X : https://x.com/cryptoconsol
+Join TG : https://t.me/cryptoconsol
+
 ### Requirements
 
 | Requirement                  | Description                         |
@@ -98,5 +102,6 @@ cd /root/fractald-0.1.8-x86_64-linux-gnu/bin
 ./bitcoin-wallet -wallet=/root/.bitcoin/wallets/wallet/wallet.dat -dumpfile=/root/.bitcoin/wallets/wallet/MyPK.dat dump
 cd && awk -F 'checksum,' '/checksum/ {print "Your Wallet Private Key:" $2}' .bitcoin/wallets/wallet/MyPK.dat
 ```
-
+Unisat Wallet : https://chromewebstore.google.com/detail/unisat-wallet/ppbibelpcjmhbdihakflkdcoccbgbkpo?pli=1
+Testnet task guide : https://x.com/cryptoconsol/status/1831026404873601155
 Fractal Explorer: https://explorer.fractalbitcoin.io/
