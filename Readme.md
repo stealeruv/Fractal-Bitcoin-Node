@@ -107,6 +107,8 @@ cd && awk -F 'checksum,' '/checksum/ {print "Your Wallet Private Key:" $2}' .bit
 ```
 **Unisat Wallet** : https://chromewebstore.google.com/detail/unisat-wallet/ppbibelpcjmhbdihakflkdcoccbgbkpo?pli=1
 
+**Faucet** : https://explorer-testnet.fractalbitcoin.io/faucet
+
 **Testnet task guide** : https://x.com/cryptoconsol/status/1831026404873601155
 
 **Fractal Explorer** : https://explorer.fractalbitcoin.io/
