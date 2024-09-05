@@ -101,8 +101,7 @@ cd /root/fractald-0.1.8-x86_64-linux-gnu/bin
 8. **Get the Wallet Private Key:**
 
 ```shell
-cd /root/fractald-0.1.8-x86_64-linux-gnu/bin
-./bitcoin-wallet -wallet=/root/.bitcoin/wallets/wallet/wallet.dat -dumpfile=/root/.bitcoin/wallets/wallet/MyPK.dat dump
+cd /root/fractald-0.1.8-x86_64-linux-gnu/bin./bitcoin-wallet -wallet=/root/.bitcoin/wallets/wallet/wallet.dat -dumpfile=/root/.bitcoin/wallets/wallet/MyPK.dat dump
 cd && awk -F 'checksum,' '/checksum/ {print "Your Wallet Private Key:" $2}' .bitcoin/wallets/wallet/MyPK.dat
 ```
 **Unisat Wallet** : https://chromewebstore.google.com/detail/unisat-wallet/ppbibelpcjmhbdihakflkdcoccbgbkpo?pli=1
