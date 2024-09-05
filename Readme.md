@@ -4,9 +4,12 @@ Node setup for the Fractal Bitcoin project, which is supported by mighty Binance
 
 Fractal Bitcoin is the only Bitcoin scaling solution that uses the Bitcoin Core code to iteratively scale infinite layers. This is the world's first virtualization method applied to Bitcoin. Fractal gradually expands the Bitcoin blockchain into a scalable computing system without compromising the consistency of the main Bitcoin chain. Building on Fractal is quite simple with powerful tools and support.
 
-Youtube : https://www.youtube.com/@cryptoconsole
-Follow X : https://x.com/cryptoconsol
-Join TG : https://t.me/cryptoconsol
+**Youtube : https://www.youtube.com/@cryptoconsole**
+
+**Follow X : https://x.com/cryptoconsol**
+
+**Join TG : https://t.me/cryptoconsol**
+
 
 ### Requirements
 
