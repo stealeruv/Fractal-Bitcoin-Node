@@ -111,4 +111,4 @@ cd && awk -F 'checksum,' '/checksum/ {print "Your Wallet Private Key:" $2}' .bit
 
 **Testnet task guide** : https://x.com/cryptoconsol/status/1831026404873601155
 
-**Fractal Explorer** : https://explorer.fractalbitcoin.io/
+**Fractal Explorer** : https://explorer-testnet.fractalbitcoin.io/
