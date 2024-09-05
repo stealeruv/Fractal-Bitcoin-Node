@@ -15,9 +15,9 @@ Fractal Bitcoin is the only Bitcoin scaling solution that uses the Bitcoin Core 
 
 | Requirement                  | Description                         |
 |------------------------------|-------------------------------------|
-| Operating System             | Ubuntu 22.04 or 24                  |
-| Memory (RAM)                 | At least 4 GB                       |
-| Disk Space                   | At least 100 GB of free disk space  |
+| Operating System             | Ubuntu 22.04 or 24.04               |
+| Memory (RAM)                 | Minimum 4 GB                        |
+| Disk Space                   | Minimum 100 GB of free disk space   |
 
 ## Installation
 
