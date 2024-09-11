@@ -35,19 +35,19 @@ sudo apt install curl build-essential pkg-config libssl-dev git wget jq make gcc
 1. **Download the Fractal Repository:**
 
 ```shell
-wget https://github.com/fractal-bitcoin/fractald-release/releases/download/v0.1.8/fractald-0.1.8-x86_64-linux-gnu.tar.gz
+wget https://github.com/fractal-bitcoin/fractald-release/releases/download/v0.2.1/fractald-0.2.1-x86_64-linux-gnu.tar.gz
 ```
 
 2. **Extract the File:**
 
 ```shell
-tar -zxvf fractald-0.1.8-x86_64-linux-gnu.tar.gz
+tar -zxvf fractald-0.2.1-x86_64-linux-gnu.tar.gz
 ```
 
 3. **Create the Data Folder:**
 
 ```shell
-cd fractald-0.1.8-x86_64-linux-gnu && mkdir data
+cd fractald-0.2.1-x86_64-linux-gnu && mkdir data
 ```
 
 4. **Copy the Configuration File:**
